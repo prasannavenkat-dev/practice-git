@@ -3,5 +3,6 @@
 let js = {
     a:"Hello There!",
     c:"This is not testing phase, Dev phase",
-    d:"Dont commit any changes"
+    d:"Dont commit any changes",
+    t:"Dont include bella ciao"
 }
